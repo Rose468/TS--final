@@ -34,7 +34,7 @@ block12= new Block(550,390,30,40)
 block13 = new Block(460,340,30,40);
 block14 = new Block(490,360,30,40);
 block15 = new Block(520,340,30,40);
-polygon= new Polygon(30,50,400);
+polygon= new Polygon(30,50,50);
 
 block16 = new Block(490,100,30,40);
 Slingshot = new SlingShot(polygon.body,{x:80, y:350});
